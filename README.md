@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning React</p>
+<p align="left">✨ Creating bugs since 2018</p>
 
 ###
 
